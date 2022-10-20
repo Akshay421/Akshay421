@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay421
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python programming.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on front-end web development...
 
 <!---
 Akshay421/Akshay421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
